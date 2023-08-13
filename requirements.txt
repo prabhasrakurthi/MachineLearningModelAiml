@@ -1,6 +1,7 @@
 Flask==2.2.5
 numpy==1.19.2
+pandas==0.25.3
 requests==2.31.0
 pickle4==0.0.1
 gunicorn==21.2.0
-scikit-learn==0.22.2.post1
+scikit-learn==0.22.2
